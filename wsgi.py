@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
-from app.main import app
+from main import BeWell
   
 if __name__ == "__main__":
-        app.run()
+        BeWell.run()
+    
